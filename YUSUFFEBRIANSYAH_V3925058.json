@@ -1,0 +1,660 @@
+{
+    "laporan_masyarakat": [
+        {
+            "lokasi_gps": "-7.250445,112.768845",
+            "nama_pelapor": "Ahmad Zulkarnain",
+            "id": "LPM-0001",
+            "alamat": "Jl. Sudirman No.12, Surabaya",
+            "tanggal_lahir": "1985-06-15",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0001.jpg"
+        },
+        {
+            "lokasi_gps": "-7.255777,112.747833",
+            "nama_pelapor": "Budi Santoso",
+            "id": "LPM-0002",
+            "alamat": "Jl. Merdeka No.45, Surabaya",
+            "tanggal_lahir": "1990-11-02",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0002.jpg"
+        },
+        {
+            "lokasi_gps": "-7.247888,112.752222",
+            "nama_pelapor": "Chandra Kusuma",
+            "id": "LPM-0003",
+            "alamat": "Jl. Diponegoro No.8, Surabaya",
+            "tanggal_lahir": "1978-03-29",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0003.jpg"
+        },
+        {
+            "lokasi_gps": "-7.262333,112.762111",
+            "nama_pelapor": "Dewi Lestari",
+            "id": "LPM-0004",
+            "alamat": "Jl. Pahlawan No.30, Surabaya",
+            "tanggal_lahir": "1992-12-16",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0004.jpg"
+        },
+        {
+            "lokasi_gps": "-7.268555,112.780444",
+            "nama_pelapor": "Eka Prasetya",
+            "id": "LPM-0005",
+            "alamat": "Jl. Kenanga No.21, Surabaya",
+            "tanggal_lahir": "1988-05-07",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0005.jpg"
+        },
+        {
+            "lokasi_gps": "-7.259999,112.770000",
+            "nama_pelapor": "Fajar Nugroho",
+            "id": "LPM-0006",
+            "alamat": "Jl. Melati No.14, Surabaya",
+            "tanggal_lahir": "1975-09-20",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0006.jpg"
+        },
+        {
+            "lokasi_gps": "-7.253222,112.775888",
+            "nama_pelapor": "Gita Wulandari",
+            "id": "LPM-0007",
+            "alamat": "Jl. Dahlia No.3, Surabaya",
+            "tanggal_lahir": "1995-01-10",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0007.jpg"
+        },
+        {
+            "lokasi_gps": "-7.244444,112.768999",
+            "nama_pelapor": "Hadi Prasetyo",
+            "id": "LPM-0008",
+            "alamat": "Jl. Anggrek No.27, Surabaya",
+            "tanggal_lahir": "1982-07-25",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0008.jpg"
+        },
+        {
+            "lokasi_gps": "-7.267777,112.759111",
+            "nama_pelapor": "Intan Permata",
+            "id": "LPM-0009",
+            "alamat": "Jl. Rajawali No.11, Surabaya",
+            "tanggal_lahir": "1998-04-03",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0009.jpg"
+        },
+        {
+            "lokasi_gps": "-7.251111,112.783333",
+            "nama_pelapor": "Joko Widodo",
+            "id": "LPM-0010",
+            "alamat": "Jl. Melur No.5, Surabaya",
+            "tanggal_lahir": "1961-06-21",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0010.jpg"
+        },
+        {
+            "lokasi_gps": "-7.256222,112.781555",
+            "nama_pelapor": "Kurniawan Setiawan",
+            "id": "LPM-0011",
+            "alamat": "Jl. Mawar No.19, Surabaya",
+            "tanggal_lahir": "1979-10-30",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0011.jpg"
+        },
+        {
+            "lokasi_gps": "-7.249888,112.756444",
+            "nama_pelapor": "Lia Hartati",
+            "id": "LPM-0012",
+            "alamat": "Jl. Wijaya Kusuma No.22, Surabaya",
+            "tanggal_lahir": "1987-02-14",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0012.jpg"
+        },
+        {
+            "lokasi_gps": "-7.260444,112.758555",
+            "nama_pelapor": "Maman Supriatna",
+            "id": "LPM-0013",
+            "alamat": "Jl. Veteran No.9, Surabaya",
+            "tanggal_lahir": "1965-08-08",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0013.jpg"
+        },
+        {
+            "lokasi_gps": "-7.253999,112.769111",
+            "nama_pelapor": "Novi Anggraini",
+            "id": "LPM-0014",
+            "alamat": "Jl. A. Yani No.33, Surabaya",
+            "tanggal_lahir": "1993-11-19",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0014.jpg"
+        },
+        {
+            "lokasi_gps": "-7.266111,112.772222",
+            "nama_pelapor": "Oki Prabowo",
+            "id": "LPM-0015",
+            "alamat": "Jl. P. Diponegoro No.17, Surabaya",
+            "tanggal_lahir": "1980-01-05",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0015.jpg"
+        },
+        {
+            "lokasi_gps": "-7.258333,112.765444",
+            "nama_pelapor": "Putri Ramadhani",
+            "id": "LPM-0016",
+            "alamat": "Jl. Sultan Agung No.7, Surabaya",
+            "tanggal_lahir": "1997-03-23",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0016.jpg"
+        },
+        {
+            "lokasi_gps": "-7.246777,112.779555",
+            "nama_pelapor": "Qiara Miftah",
+            "id": "LPM-0017",
+            "alamat": "Jl. Embong Malang No.40, Surabaya",
+            "tanggal_lahir": "1991-09-14",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0017.jpg"
+        },
+        {
+            "lokasi_gps": "-7.262999,112.754888",
+            "nama_pelapor": "Rizky Adi",
+            "id": "LPM-0018",
+            "alamat": "Jl. Kertajaya No.16, Surabaya",
+            "tanggal_lahir": "1984-12-27",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0018.jpg"
+        },
+        {
+            "lokasi_gps": "-7.255555,112.762777",
+            "nama_pelapor": "Sari Dewi",
+            "id": "LPM-0019",
+            "alamat": "Jl. Gunung Sari No.2, Surabaya",
+            "tanggal_lahir": "1976-05-12",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0019.jpg"
+        },
+        {
+            "lokasi_gps": "-7.248333,112.770222",
+            "nama_pelapor": "Tono Susanto",
+            "id": "LPM-0020",
+            "alamat": "Jl. Raya Darmo No.29, Surabaya",
+            "tanggal_lahir": "1989-08-30",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0020.jpg"
+        },
+        {
+            "lokasi_gps": "-7.257888,112.776444",
+            "nama_pelapor": "Umi Kalsum",
+            "id": "LPM-0021",
+            "alamat": "Jl. Ahmad Yani No.6, Surabaya",
+            "tanggal_lahir": "1977-02-02",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0021.jpg"
+        },
+        {
+            "lokasi_gps": "-7.264444,112.760111",
+            "nama_pelapor": "Vina Anggraini",
+            "id": "LPM-0022",
+            "alamat": "Jl. Tunjungan No.10, Surabaya",
+            "tanggal_lahir": "1994-07-18",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0022.jpg"
+        },
+        {
+            "lokasi_gps": "-7.261111,112.780333",
+            "nama_pelapor": "Wawan Prasetyo",
+            "id": "LPM-0023",
+            "alamat": "Jl. Flores No.26, Surabaya",
+            "tanggal_lahir": "1983-03-11",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0023.jpg"
+        },
+        {
+            "lokasi_gps": "-7.252555,112.773222",
+            "nama_pelapor": "Xaverius Hari",
+            "id": "LPM-0024",
+            "alamat": "Jl. Kenjeran No.14, Surabaya",
+            "tanggal_lahir": "1974-10-09",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0024.jpg"
+        },
+        {
+            "lokasi_gps": "-7.263777,112.767111",
+            "nama_pelapor": "Yuni Marlina",
+            "id": "LPM-0025",
+            "alamat": "Jl. Gubeng No.18, Surabaya",
+            "tanggal_lahir": "1996-06-01",
+            "url_foto": "https://surabaya.go.id/photos/LPM-0025.jpg"
+        }
+    ],
+    "cctv_publik": [
+        {
+            "camera_id": "CAM-0001",
+            "lokasi": "Bundaran Waru",
+            "waktu_timestamp": "2025-09-19T06:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0001/20250919T063000.mp4"
+        },
+        {
+            "camera_id": "CAM-0002",
+            "lokasi": "Terminal Purabaya",
+            "waktu_timestamp": "2025-09-19T07:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0002/20250919T070000.mp4"
+        },
+        {
+            "camera_id": "CAM-0003",
+            "lokasi": "Stasiun Gubeng",
+            "waktu_timestamp": "2025-09-19T07:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0003/20250919T073000.mp4"
+        },
+        {
+            "camera_id": "CAM-0004",
+            "lokasi": "RSUD Dr. Soetomo",
+            "waktu_timestamp": "2025-09-19T08:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0004/20250919T080000.mp4"
+        },
+        {
+            "camera_id": "CAM-0005",
+            "lokasi": "Pasar Atom",
+            "waktu_timestamp": "2025-09-19T08:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0005/20250919T083000.mp4"
+        },
+        {
+            "camera_id": "CAM-0006",
+            "lokasi": "Mall Tunjungan",
+            "waktu_timestamp": "2025-09-19T09:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0006/20250919T090000.mp4"
+        },
+        {
+            "camera_id": "CAM-0007",
+            "lokasi": "Taman Bungkul",
+            "waktu_timestamp": "2025-09-19T09:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0007/20250919T093000.mp4"
+        },
+        {
+            "camera_id": "CAM-0008",
+            "lokasi": "Jl. Raya Darmo",
+            "waktu_timestamp": "2025-09-19T10:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0008/20250919T100000.mp4"
+        },
+        {
+            "camera_id": "CAM-0009",
+            "lokasi": "Jl. Ahmad Yani",
+            "waktu_timestamp": "2025-09-19T10:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0009/20250919T103000.mp4"
+        },
+        {
+            "camera_id": "CAM-0010",
+            "lokasi": "Jl. Panglima Sudirman",
+            "waktu_timestamp": "2025-09-19T11:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0010/20250919T110000.mp4"
+        },
+        {
+            "camera_id": "CAM-0011",
+            "lokasi": "Bundaran Satelit",
+            "waktu_timestamp": "2025-09-19T11:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0011/20250919T113000.mp4"
+        },
+        {
+            "camera_id": "CAM-0012",
+            "lokasi": "Jl. Mayjen Sungkono",
+            "waktu_timestamp": "2025-09-19T12:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0012/20250919T120000.mp4"
+        },
+        {
+            "camera_id": "CAM-0013",
+            "lokasi": "Jl. Kertajaya",
+            "waktu_timestamp": "2025-09-19T12:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0013/20250919T123000.mp4"
+        },
+        {
+            "camera_id": "CAM-0014",
+            "lokasi": "Jl. Margorejo",
+            "waktu_timestamp": "2025-09-19T13:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0014/20250919T130000.mp4"
+        },
+        {
+            "camera_id": "CAM-0015",
+            "lokasi": "Jl. Juanda",
+            "waktu_timestamp": "2025-09-19T13:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0015/20250919T133000.mp4"
+        },
+        {
+            "camera_id": "CAM-0016",
+            "lokasi": "Jl. Raya Sidoarjo",
+            "waktu_timestamp": "2025-09-19T14:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0016/20250919T140000.mp4"
+        },
+        {
+            "camera_id": "CAM-0017",
+            "lokasi": "Jl. Raya Gresik",
+            "waktu_timestamp": "2025-09-19T14:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0017/20250919T143000.mp4"
+        },
+        {
+            "camera_id": "CAM-0018",
+            "lokasi": "Jl. Diponegoro",
+            "waktu_timestamp": "2025-09-19T15:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0018/20250919T150000.mp4"
+        },
+        {
+            "camera_id": "CAM-0019",
+            "lokasi": "Jl. Embong Malang",
+            "waktu_timestamp": "2025-09-19T15:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0019/20250919T153000.mp4"
+        },
+        {
+            "camera_id": "CAM-0020",
+            "lokasi": "Jl. Rajawali",
+            "waktu_timestamp": "2025-09-19T16:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0020/20250919T160000.mp4"
+        },
+        {
+            "camera_id": "CAM-0021",
+            "lokasi": "Jl. Gunungsari",
+            "waktu_timestamp": "2025-09-19T16:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0021/20250919T163000.mp4"
+        },
+        {
+            "camera_id": "CAM-0022",
+            "lokasi": "Jl. Taman Apsari",
+            "waktu_timestamp": "2025-09-19T17:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0022/20250919T170000.mp4"
+        },
+        {
+            "camera_id": "CAM-0023",
+            "lokasi": "Jl. Sulawesi",
+            "waktu_timestamp": "2025-09-19T17:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0023/20250919T173000.mp4"
+        },
+        {
+            "camera_id": "CAM-0024",
+            "lokasi": "Jl. Flores",
+            "waktu_timestamp": "2025-09-19T18:00:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0024/20250919T180000.mp4"
+        },
+        {
+            "camera_id": "CAM-0025",
+            "lokasi": "Jl. Kenjeran",
+            "waktu_timestamp": "2025-09-19T18:30:00Z",
+            "url_rekaman": "https://rekaman.surabaya.go.id/cctv/cam0025/20250919T183000.mp4"
+        }
+    ],
+    "data_pemerintah": [
+        {
+            "penutupan_jalan": "Jl. Diponegoro",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Ahmad Yani",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Mayjen Sungkono",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Tunjungan",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Gubeng",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Darmo",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Pahlawan",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Embong Malang",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Rajawali",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Anggrek",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Rawan"
+        },
+        {
+            "penutupan_jalan": "Jl. Kenanga",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Melati",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Veteran",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Sultan Agung",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Gubeng",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Sidoarjo",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Juanda",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Rawan"
+        },
+        {
+            "penutupan_jalan": "Jl. Flores",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Gunung Anyar",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Waru",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Gresik",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Raya Madura",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Rawan"
+        },
+        {
+            "penutupan_jalan": "Jl. Pemuda",
+            "status_pengalihan_arus": "Non-Aktif",
+            "kondisi_keamanan": "Aman"
+        },
+        {
+            "penutupan_jalan": "Jl. Slamet Riyadi",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Siaga"
+        },
+        {
+            "penutupan_jalan": "Jl. Diponegoro Ujung",
+            "status_pengalihan_arus": "Aktif",
+            "kondisi_keamanan": "Rawan"
+        }
+    ],
+    "data_dukcapil": [
+        {
+            "nomor_nik": "3573011506780001",
+            "nama": "Ade Putra",
+            "alamat": "Jl. Kelapa No.9, Surabaya",
+            "umur": 39,
+            "pekerjaan": "Pegawai Negeri"
+        },
+        {
+            "nomor_nik": "3573010201900002",
+            "nama": "Bella Sari",
+            "alamat": "Jl. Sawah No.12, Surabaya",
+            "umur": 35,
+            "pekerjaan": "Guru"
+        },
+        {
+            "nomor_nik": "3573011205850003",
+            "nama": "Charlie Wijaya",
+            "alamat": "Jl. Kebon No.7, Surabaya",
+            "umur": 40,
+            "pekerjaan": "Dokter"
+        },
+        {
+            "nomor_nik": "3573010510920004",
+            "nama": "Dina Larasati",
+            "alamat": "Jl. Pinang No.4, Surabaya",
+            "umur": 32,
+            "pekerjaan": "Wiraswasta"
+        },
+        {
+            "nomor_nik": "3573012203810005",
+            "nama": "Eko Prasetyo",
+            "alamat": "Jl. Cemara No.5, Surabaya",
+            "umur": 44,
+            "pekerjaan": "Swasta"
+        },
+        {
+            "nomor_nik": "3573011807750006",
+            "nama": "Fina Ramadhani",
+            "alamat": "Jl. Kenari No.2, Surabaya",
+            "umur": 28,
+            "pekerjaan": "Mahasiswa"
+        },
+        {
+            "nomor_nik": "3573010301880007",
+            "nama": "Gilang Setiawan",
+            "alamat": "Jl. Cempaka No.18, Surabaya",
+            "umur": 37,
+            "pekerjaan": "Wartawan"
+        },
+        {
+            "nomor_nik": "3573011012750008",
+            "nama": "Hesti Wulandari",
+            "alamat": "Jl. Flamboyan No.21, Surabaya",
+            "umur": 49,
+            "pekerjaan": "Perawat"
+        },
+        {
+            "nomor_nik": "3573012403860009",
+            "nama": "Irfan Hakim",
+            "alamat": "Jl. Frangipani No.11, Surabaya",
+            "umur": 36,
+            "pekerjaan": "Polisi"
+        },
+        {
+            "nomor_nik": "3573010511800010",
+            "nama": "Jihan Malikah",
+            "alamat": "Jl. Melur No.16, Surabaya",
+            "umur": 43,
+            "pekerjaan": "Dosen"
+        },
+        {
+            "nomor_nik": "3573011312810011",
+            "nama": "Kiki Prabowo",
+            "alamat": "Jl. Dahlia No.14, Surabaya",
+            "umur": 42,
+            "pekerjaan": "Pegawai Swasta"
+        },
+        {
+            "nomor_nik": "3573010710720012",
+            "nama": "Linda Hartono",
+            "alamat": "Jl. Rajawali No.3, Surabaya",
+            "umur": 33,
+            "pekerjaan": "Arsitek"
+        },
+        {
+            "nomor_nik": "3573010111780013",
+            "nama": "Mawar Suci",
+            "alamat": "Jl. Anggrek No.25, Surabaya",
+            "umur": 47,
+            "pekerjaan": "Desainer"
+        },
+        {
+            "nomor_nik": "3573012206700014",
+            "nama": "Nanda Prasetyo",
+            "alamat": "Jl. Merpati No.8, Surabaya",
+            "umur": 39,
+            "pekerjaan": "Pegawai Negeri"
+        },
+        {
+            "nomor_nik": "3573010412850015",
+            "nama": "Oma Rizky",
+            "alamat": "Jl. Gading No.19, Surabaya",
+            "umur": 38,
+            "pekerjaan": "Wiraswasta"
+        },
+        {
+            "nomor_nik": "3573011509920016",
+            "nama": "Putri Anjani",
+            "alamat": "Jl. Melati No.6, Surabaya",
+            "umur": 30,
+            "pekerjaan": "Dokter"
+        },
+        {
+            "nomor_nik": "3573013006880017",
+            "nama": "Qoriatul Adha",
+            "alamat": "Jl. Flamboyan No.17, Surabaya",
+            "umur": 42,
+            "pekerjaan": "Guru"
+        },
+        {
+            "nomor_nik": "3573012005900018",
+            "nama": "Rian Saputra",
+            "alamat": "Jl. Kenanga No.13, Surabaya",
+            "umur": 35,
+            "pekerjaan": "Swasta"
+        },
+        {
+            "nomor_nik": "3573010912750019",
+            "nama": "Siti Nurhaliza",
+            "alamat": "Jl. Dahlia No.28, Surabaya",
+            "umur": 49,
+            "pekerjaan": "Perawat"
+        },
+        {
+            "nomor_nik": "3573010103870020",
+            "nama": "Tito Sulistyo",
+            "alamat": "Jl. A. Yani No.22, Surabaya",
+            "umur": 38,
+            "pekerjaan": "Wartawan"
+        },
+        {
+            "nomor_nik": "3573011710970021",
+            "nama": "Ulya Ramadhan",
+            "alamat": "Jl. Veteran No.1, Surabaya",
+            "umur": 26,
+            "pekerjaan": "Mahasiswa"
+        },
+        {
+            "nomor_nik": "3573011902900022",
+            "nama": "Vira Amalia",
+            "alamat": "Jl. Pahlawan No.31, Surabaya",
+            "umur": 33,
+            "pekerjaan": "Dosen"
+        },
+        {
+            "nomor_nik": "3573010811850023",
+            "nama": "Wahyu Prakoso",
+            "alamat": "Jl. Diponegoro No.18, Surabaya",
+            "umur": 38,
+            "pekerjaan": "Polisi"
+        },
+        {
+            "nomor_nik": "3573010610220024",
+            "nama": "Xena Paramitha",
+            "alamat": "Jl. Raya Darmo No.9, Surabaya",
+            "umur": 42,
+            "pekerjaan": "Desainer"
+        },
+        {
+            "nomor_nik": "3573012506760025",
+            "nama": "Yusuf Hidayat",
+            "alamat": "Jl. Gubeng No.27, Surabaya",
+            "umur": 48,
+            "pekerjaan": "Pegawai Negeri"
+        }
+    ]
+}
